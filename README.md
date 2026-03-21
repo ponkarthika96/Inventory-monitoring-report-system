@@ -114,34 +114,31 @@ Generates reports in **CSV and PDF format**.
 
 Automatically sends alerts when stock quantity falls below the reorder level.
 
-
-
 ## 📸 Project Screenshots
 
 ### 🔐 Login Page
-![Login Page](https://github.com/user-attachments/assets/7ea943ae-16db-43d1-b2b7-3a202816879a)
+![Login Page](screenshot/login.png)
 
 ### 📊 Dashboard
-![Dashboard](https://github.com/user-attachments/assets/232c5875-59df-443c-85c8-0966ec40c261)
+![Dashboard](screenshot/dashboard.png)
 
 ### 📦 Products Page
-![Products](https://github.com/user-attachments/assets/a5fdd124-ff08-4a02-8daf-32920c8a0252)
+![Products](screenshot/product.png)
 
 ### ➕ Add Product
-![Add Product](https://github.com/user-attachments/assets/5e1aa139-d760-4af7-8287-6a5360cd86e3)
+![Add Product](screenshot/add-product.png)
 
 ### ⚠️ Low Stock Monitoring
-![Low Stock](https://github.com/user-attachments/assets/e8f81bf8-7abe-45a4-b01d-42fc07d5f5f7)
+![Low Stock](screenshot/low stock.png)
 
 ### 📈 Visualization / Analytics
-![Analytics](https://github.com/user-attachments/assets/c6c44fda-c773-4b19-ac95-bfafe55f906b)
+![Analytics](screenshot/analytics.png)
 
 ### 📝 Stock Logs
-![Stock Logs](https://github.com/user-attachments/assets/c89c0575-414e-44a8-9a27-fceeb8898252)
+![Stock Logs](screenshot/stock logs.png)
 
 ### ⚙️ Settings
-![Settings](https://github.com/user-attachments/assets/860b1b89-766c-4394-ace9-13addbc9399f)
-
+![Settings](screenshot/settings.png)
 
 
  ⚙️ How to Run the Project

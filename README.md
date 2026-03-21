@@ -142,7 +142,7 @@ Automatically sends alerts when stock quantity falls below the reorder level.
 ### ⚙️ Settings
 ![Settings](https://github.com/user-attachments/assets/860b1b89-766c-4394-ace9-13addbc9399f)
 
----
+
 
  ⚙️ How to Run the Project
 

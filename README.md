@@ -129,13 +129,13 @@ Automatically sends alerts when stock quantity falls below the reorder level.
 ![Add Product](screenshot/add-product.png)
 
 ### ⚠️ Low Stock Monitoring
-![Low Stock](screenshot/low stock.png)
+![Low Stock](screenshot/low-stock.png)
 
 ### 📈 Visualization / Analytics
 ![Analytics](screenshot/analytics.png)
 
 ### 📝 Stock Logs
-![Stock Logs](screenshot/stock logs.png)
+![Stock Logs](screenshot/stock-logs.png)
 
 ### ⚙️ Settings
 ![Settings](screenshot/settings.png)

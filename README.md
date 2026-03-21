@@ -1,2 +1,194 @@
-# Inventory-monitoring-report-system
-The Inventory Management System is a web application developed using Spring Boot, Thymeleaf, and MySQL to manage product inventory efficiently. It allows users to add, update, delete, and track products, monitor stock levels, and identify low-stock items to ensure effective inventory control.
+# Inventory Monitoring and Report System
+
+A **Java Spring Boot based Inventory Management System** that helps businesses manage products, monitor stock levels, track inventory changes, and generate reports efficiently.
+
+This system provides **role-based access control**, **low stock alerts**, **dashboard analytics**, and **exportable reports** in **CSV and PDF formats**.
+
+
+
+# 🚀 Features
+
+* Secure Login Authentication
+* Role-Based Access (Admin / User)
+* Product Management (Add / Update / View Products)
+* Stock Update Tracking
+* Low Stock Detection
+* Inventory Dashboard Analytics
+* Stock Change Logs
+* Export Reports (CSV / PDF)
+* Automated Email Alerts for Low Stock
+
+
+
+# 🛠️ Technology Stack
+
+### Backend
+
+* Java
+* Spring Boot
+* Spring Security
+* Spring Data JPA
+
+### Frontend
+
+* Thymeleaf
+* HTML
+* CSS
+* Bootstrap
+
+### Database
+
+* MySQL
+
+### Tools
+
+* Maven
+* Git & GitHub
+* IntelliJ IDEA
+* iText PDF
+* OpenCSV
+
+---
+
+# 📂 Project Structure
+
+src
+└── main
+    ├── java
+    │   └── com.enterprise.inventory
+    │       ├── config
+    │       ├── controller
+    │       ├── entity
+    │       ├── repository
+    │       ├── security
+    │       └── service
+    │
+    └── resources
+        ├── templates
+        └── application.properties
+```
+
+---
+
+# 🔐 Default Login Credentials
+
+### Admin Login
+
+Username: admin
+Password: admin123
+
+### User Login
+
+Username: user1
+Password: admin123
+
+
+
+ 📊 System Modules
+
+1️⃣ Authentication Module
+
+Provides secure login using **Spring Security**.
+
+ 2️⃣ Product Management Module
+
+Allows adding, updating, and managing inventory products.
+
+ 3️⃣ Inventory Tracking Module
+
+Tracks stock updates and monitors product quantity levels.
+
+ 4️⃣ Dashboard Analytics
+
+Displays inventory statistics and product insights.
+
+ 5️⃣ Stock Log System
+
+Maintains history of inventory updates.
+
+ 6️⃣ Reporting Module
+
+Generates reports in **CSV and PDF format**.
+
+ 7️⃣ Email Notification System
+
+Automatically sends alerts when stock quantity falls below the reorder level.
+
+
+
+## 📸 Project Screenshots
+
+### 🔐 Login Page
+![Login Page](https://github.com/user-attachments/assets/7ea943ae-16db-43d1-b2b7-3a202816879a)
+
+### 📊 Dashboard
+![Dashboard](https://github.com/user-attachments/assets/232c5875-59df-443c-85c8-0966ec40c261)
+
+### 📦 Products Page
+![Products](https://github.com/user-attachments/assets/a5fdd124-ff08-4a02-8daf-32920c8a0252)
+
+### ➕ Add Product
+![Add Product](https://github.com/user-attachments/assets/5e1aa139-d760-4af7-8287-6a5360cd86e3)
+
+### ⚠️ Low Stock Monitoring
+![Low Stock](https://github.com/user-attachments/assets/e8f81bf8-7abe-45a4-b01d-42fc07d5f5f7)
+
+### 📈 Visualization / Analytics
+![Analytics](https://github.com/user-attachments/assets/c6c44fda-c773-4b19-ac95-bfafe55f906b)
+
+### 📝 Stock Logs
+![Stock Logs](https://github.com/user-attachments/assets/c89c0575-414e-44a8-9a27-fceeb8898252)
+
+### ⚙️ Settings
+![Settings](https://github.com/user-attachments/assets/860b1b89-766c-4394-ace9-13addbc9399f)
+
+---
+
+ ⚙️ How to Run the Project
+
+ 1️⃣ Clone the repository
+
+git clone https://github.com/ponkarthika96/inventory-monitoring-report-system.git
+
+
+ 2️⃣ Open in IntelliJ IDEA
+
+Open the project using **IntelliJ IDEA**.
+
+ 3️⃣ Configure Database
+
+Edit `application.properties`
+
+
+spring.datasource.url=jdbc:mysql://localhost:3306/inventory_db
+spring.datasource.username=root
+spring.datasource.password=yourpassword
+
+
+ 4️⃣ Run the Application
+
+Run the Spring Boot application:
+
+```
+InventoryApplication.java
+```
+
+5️⃣ Open Browser
+
+```
+http://localhost:8080/login
+```
+
+---
+
+👩‍💻 Author
+
+**Ponkarthika**
+
+GitHub: https://github.com/ponkarthika96
+
+---
+
+ 📜 License
+
+This project is licensed under the **MIT License**.

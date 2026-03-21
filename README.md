@@ -117,29 +117,28 @@ Automatically sends alerts when stock quantity falls below the reorder level.
 ## 📸 Project Screenshots
 
 ### 🔐 Login Page
-![Login Page](screenshot/login.png)
+![Login](./screenshot/login.png)
 
 ### 📊 Dashboard
-![Dashboard](screenshot/dashboard.png)
+![Dashboard](./screenshot/dashboard.png)
 
 ### 📦 Products Page
-![Products](screenshot/product.png)
+![Products](./screenshot/product.png)
 
 ### ➕ Add Product
-![Add Product](screenshot/add-product.png)
+![Add Product](./screenshot/add-product.png)
 
 ### ⚠️ Low Stock Monitoring
-![Low Stock](screenshot/low-stock.png)
+![Low Stock](./screenshot/low-stock.png)
 
 ### 📈 Visualization / Analytics
-![Analytics](screenshot/analytics.png)
+![Analytics](./screenshot/analytics.png)
 
 ### 📝 Stock Logs
-![Stock Logs](screenshot/stock-logs.png)
+![Stock Logs](./screenshot/stock-logs.png)
 
 ### ⚙️ Settings
-![Settings](screenshot/settings.png)
-
+![Settings](./screenshot/settings.png)
 
  ⚙️ How to Run the Project
 

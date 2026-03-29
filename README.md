@@ -183,6 +183,14 @@ http://localhost:8080/login
 
 GitHub: https://github.com/ponkarthika96
 
+👥 Contributors
+
+Team members who contributed and supported:
+
+- Prasanna Venkatesh V
+- Prasanna S
+- Vihashini R
+
 ---
 
  📜 License
